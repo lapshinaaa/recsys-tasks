@@ -1,0 +1,11 @@
+numpy
+polars
+tensorflow
+matplotlib
+tqdm
+Pillow
+beautifulsoup4
+requests
+kagglehub
+scipy
+tensorboard
