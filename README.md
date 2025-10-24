@@ -1,6 +1,6 @@
-# Recommendation Systems Tasks Repository
+# Recommender Systems Tasks Repository
 
-Welcome to my Recommendation Systems repository! 🎬  
+Welcome to my Recommender Systems repository! 🎬  
 This repo contains a collection of practical recommender-system experiments and algorithm implementations, structured as self-contained Jupyter notebooks (.ipynb).  
 
 Each notebook includes inline imports, code commentary, and task explanations.  
@@ -21,7 +21,7 @@ Notebooks are best viewed after download — preview is disabled due to their si
 
 | Notebook | Topic | Key Concepts | Notes |
 |----------|-------|--------------|-------|
-| RecSys1_Intro.ipynb | 🎥 Fundamentals of Recommendation Systems | Collaborative Filtering, Jaccard Similarity, Normalized PMI, and Latent Factor Models (SVD) | Implemented base recommender structure and several collaborative filtering variants (user–user, item–item). Explored Jaccard and NPMI similarities, SVD-based latent models. Tasks are inspired by the [Yandex Data School (ШАД) RecSys course](https://github.com/yandexdataschool/recsys_course). The experiments were primarily conducted on IMDb movie data, but the codebase is flexible enough for anime or other domains. |
+| RecSys1_Intro.ipynb | 🎥 Fundamentals of Recommender Systems | Collaborative Filtering, Jaccard Similarity, Normalized PMI, and Latent Factor Models (SVD) | Implemented base recommender structure and several collaborative filtering variants (user–user, item–item). Explored Jaccard and NPMI similarities, SVD-based latent models. Tasks are inspired by the [Yandex Data School (ШАД) RecSys course](https://github.com/yandexdataschool/recsys_course). The experiments were primarily conducted on IMDb movie data, but the codebase is flexible enough for anime or other domains. |
 
 ---
 
