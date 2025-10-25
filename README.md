@@ -22,7 +22,7 @@ Notebooks are best viewed after download — preview is disabled due to their si
 | Notebook | Topic | Key Concepts | Notes |
 |----------|-------|--------------|-------|
 | RecSys1_Intro.ipynb | 🎥 Fundamentals of Recommender Systems | Collaborative Filtering, Jaccard Similarity, Normalized PMI, and Latent Factor Models (SVD) | Implemented base recommender structure and several collaborative filtering variants (user–user, item–item). Explored Jaccard and NPMI similarities, SVD-based latent models. Tasks are inspired by the [Yandex Data School (ШАД) RecSys course](https://github.com/yandexdataschool/recsys_course). The experiments were primarily conducted on IMDb movie data, but the codebase is flexible enough for anime or other domains. |
-
+| RecSys2_CatBoost_LavkaEvents.ipynb | 🛒 Learning to Rank in E-Commerce | Feature Engineering, Train/Validation Splitting without Temporal Leakage, Gradient Boosting (CatBoost), Ranking Metrics (NDCG, Novelty, Serendipity) | Worked with real user interaction logs from the Yandex Lavka app. Built time-aware training sets, engineered behavioral features (CTR, personalized purchase frequency), trained a CatBoost ranking model, and evaluated recommendations using ranking metrics such as NDCG@K, Novelty@K, and Serendipity@K. Demonstrated how relevance and diversity trade-offs influence user experience. |
 ---
 
 ## ⚙️ Setup & Installation  
