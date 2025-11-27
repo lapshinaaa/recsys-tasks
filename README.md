@@ -106,5 +106,5 @@ Feel free to fork, explore, and build upon it!
 ## 👤 Author
 
 Created by **Anastasiia Lapshina**.  
-Reference reposityory: https://github.com/yandexdataschool/recsys_course  <br />
+Reference repository (with the majority of the tasks from there): https://github.com/yandexdataschool/recsys_course  <br />
 Feel free to reach out via GitHub Issues if you’d like to collaborate or discuss recommender-system ideas.
